@@ -2,8 +2,9 @@
 priority: 0.6
 title: Project X
 excerpt: An example of a and b
-categories: works
+categories: projects
 background-image: works-sample.png
+grid-image: projects.png
 tags:
   - This
   - That

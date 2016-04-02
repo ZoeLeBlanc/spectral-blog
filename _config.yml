@@ -41,11 +41,11 @@ works_in_progress: yes
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
-  twitter: https://twitter.com/arkadianriver
-  github: https://github.com/arkadianriver
-  linkedin-square: https://linkedin.com/in/arkadianriver
-  facebook-official: https://facebook.com/gary.faircloth
-  google-plus-square: https://plus.google.com/u/0/+GaryFaircloth
+#  twitter: https://twitter.prashantsolanki.com/
+  github: http://github.prashantsolanki.com/
+  linkedin-square: http://linkedin.prashantsolanki.com/
+  google-plus-square: http://googleplus.prashantsolanki.com/
+  facebook-official: http://facebook.prashantsolanki.com/
   email: /contact/
   #flickr:
   #instagram:
@@ -82,7 +82,7 @@ social:
   #amazon:
 
 # Build settings
-permalink: /:categories/:title.html
+permalink: /:categories/:title
 markdown: kramdown
 #sass:
 #  style: compressed
