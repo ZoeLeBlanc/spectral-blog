@@ -11,23 +11,23 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: arkadianriver
-description: Flowing creativity &#x2192; Cascading bliss
+title: prashantsolanki
+description: You must forget to make it unforgettable.
 owner:
-  name: Gary Faircloth # or company name
-  email: gfair@arkadianriver.com
-  url: http://arkadianriver.com
-first_published: 1996 # if migrating another site, the year of your first publish
+  name: Prashant Solanki # or company name
+  email: solanisrp2@gmail.com
+  url: https://prashantsolanki.com
+first_published: 2015 # if migrating another site, the year of your first publish
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://arkadianriver.com" # the base hostname & protocol for your site
+url: "https://prashantsolanki.com" # the base hostname & protocol for your site
 
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: Welcome!  
-  text: I hope you enjoy my collection
+  title: Welcome!
+  text: Thanks for dropping by. I hope that it will not waste your time, but in case it does, at least I tried. Originally from New Delhi, India, I’m doing my B.Tech in Computer Science from GGSIP University. But, apart from that, I’m a die hard classic rock fan, coffee addict, who also enjoy messing with hardware, playing football and Lawn Tennis. In general, my mind can zone out during any form of creative act. Opinions expressed here are mine.
 # - title for your blog's featured posts
-features-title: Featured topics
+features-title: Intersting Stuff
 # - displayed at the bottom
 closing-head: Thanks for visiting
 closing-para: Feel free to get in touch. Cheers!
